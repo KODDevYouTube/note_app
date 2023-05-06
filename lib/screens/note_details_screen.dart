@@ -104,7 +104,7 @@ class _NoteDetailsScreenState extends State<NoteDetailsScreen> {
                     style: const TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 17
-                    ),☻
+                    ),
                   ),
                 ),
               ),
